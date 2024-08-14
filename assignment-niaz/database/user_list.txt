@@ -1,0 +1,3 @@
+admin, admin@gmail.com, 12345678, Niaz Ahmed
+manager, manager@gmail.com, 12345678, Raihan islam
+user, habib@gmail.com, 123, Md. Habib

@@ -1,0 +1,4 @@
+user, abc@mail.com, pass123, Firstname, Lastname, 26
+admin, admin@admin.com, 1234, Admin, admin, 27
+user, farhan@mail.com, 1234, Farhan, Sadaf, 25
+user, alex@gmail.com, 1234, alex, van, 21

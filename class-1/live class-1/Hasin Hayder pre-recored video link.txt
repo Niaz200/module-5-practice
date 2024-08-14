@@ -1,0 +1,8 @@
+হাসিন ভাইয়ের প্রিরেকর্ডেড ভিডিওর গিটহাব লিংক
+
+https://github.com/LearnWithHasinHayder/PHPCourse
+
+
+xampp ছাড়া output দেখার জন্য।এই command দিব যে কোন Editor বা IDE ব্যবহার করে
+
+php -S localhost:8080
